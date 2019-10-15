@@ -1,0 +1,1 @@
+export const isNumeric = value => parseInt(value) ? true : false;
